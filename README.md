@@ -86,44 +86,12 @@ I am a Senior DevOps & Cloud Engineer with over 3 years of experience in designi
 
 ---
 
-## ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [End-to-End DevOps AWS ECS Production-Ready Project](https://medium.com/codetodeploy/-d21ebd90bad6?source=rss-9ae0fed1d713------2)
-- [Production Story: Kubernetes Pods Stuck in Pending on EKS? It Wasn’t CPU or Memory](https://aws.plainenglish.io/production-story-kubernetes-pods-stuck-in-pending-on-eks-it-wasnt-cpu-or-memory-0453a7206f67?source=rss-9ae0fed1d713------2)
-- [How I Troubleshoot Databases When My Application Suddenly Gets Slow](https://medium.com/codetodeploy/how-i-troubleshoot-databases-when-my-application-suddenly-gets-slow-737171acdc99?source=rss-9ae0fed1d713------2)
-- [How to Upgrade a Kubernetes Cluster Upgrade in a Production Environment with Zero Downtime: Things…](https://blog.stackademic.com/kubernetes-cluster-upgrade-on-on-prem-things-i-learned-the-hard-way-0f08682db65b?source=rss-9ae0fed1d713------2)
-- [AWS Certificate Manager Certificates: The Hidden Cost That Surprised Me](https://aws.plainenglish.io/aws-certificate-manager-certificates-the-hidden-cost-that-surprised-me-771cbc1cec01?source=rss-9ae0fed1d713------2)
-<!-- BLOG-POST-LIST:END -->
-
-📚 More articles: https://amanpathakdevops.medium.com
-
----
-
-## 🌍 Community & Learning
-
-- 👥 **Learn together on Discord**: https://discord.gg/jdzF8kTtw2
-- 📞 **1:1 guidance, mentorship, DevOps consulting & freelancing projects**:
-  https://topmate.io/aman_pathak10
-- 🎥 **DevOps & Cloud content on YouTube**:
-  https://www.youtube.com/@aman-pathak
-
----
-
-## ☕ Support My Work
-
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aman.pathak)
-
----
 
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://dev.to/@amandevops"><img src="https://skillicons.dev/icons?i=devto" /></a>
-<a href="https://www.linkedin.com/in/aman-devops"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="www.linkedin.com/in/abdul-qadoos-b31730253/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://instagram.com/amanpathak.devops"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://amanpathakdevops.medium.com"><img src="https://cdn.simpleicons.org/medium/000000" width="48" height="48" /></a>
-<a href="https://www.youtube.com/@aman-pathak"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="48" height="48" /></a>
 </p>
 
 ---
