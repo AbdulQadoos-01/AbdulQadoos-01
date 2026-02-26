@@ -90,7 +90,7 @@ I am a Senior DevOps & Cloud Engineer with over 3 years of experience in designi
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/abdul-qadoos-b31730253/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/abdul-qadoos-b31730253/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://instagram.com/amanpathak.devops"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
