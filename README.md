@@ -32,12 +32,13 @@ I am a Senior DevOps & Cloud Engineer with over 3 years of experience in designi
 
 ## 🚀 What I Do
 
-- Design and operate Kubernetes platforms (EKS, RKE2) for multi-environment workloads
-- Build reusable Terraform modules for AWS and Azure
-- Implement GitOps-based deployments using ArgoCD and Helm
-- Automate CI/CD pipelines for applications and infrastructure
-- Design centralized observability using Prometheus, Grafana, and ELK
-- Integrate DevSecOps practices into delivery workflows
+- **Design and operate Kubernetes platforms** (EKS, RKE2) across multiple cloud environments, including **AWS, Azure, Google Cloud,** and **Oracle**, as well as on-prem workloads
+- Build and manage reusable Terraform modules for AWS, Azure, Google Cloud, and Oracle Cloud, ensuring scalable infrastructure management
+- **Implement GitOps-based** **deployments** using A**rgoCD, Helm,** and automation tools to streamline application and infrastructure delivery
+- **Automate CI/CD** pipelines for applications and infrastructure, improving deployment speed and reducing manual overhead
+- **Design and integrate centralized observability solutions** using **Prometheus, Grafana**, and **ELK stack**, providing comprehensive monitoring and logging across cloud and on-prem environments
+- **Integrate DevSecOps** **practices** into delivery workflows to ensure security, compliance, and efficient operations across the entire pipeline
+- **Leverage AgentOps** for efficient configuration management and monitoring in hybrid cloud/on-prem infrastructures
 
 ---
 
