@@ -96,5 +96,5 @@ I am a Senior DevOps & Cloud Engineer with over 3 years of experience in designi
 
 ---
 
-📫 Reach me at **abdulqados@gmail.com**<br>
+📫 Reach me at **aqadoos411@gmail.com**<br>
 ⚡ Fun fact: I am an extrovert who enjoys solving real production problems
